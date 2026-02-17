@@ -1,0 +1,26 @@
+Name,Age,Gender,Technical Skills,Communication Skills,Certifications
+Amit Singh,30,Male,"Hadoop, Spark, Kafka, Python, SQL, AWS, ETL, Data Lakes","Communication, Team Collaboration, Stakeholder Management, Presentation","AWS Certified Big Data – Specialty, Cloudera Certified Professional (CCP)"
+Janhvi Gupta,28,Female,"Machine Learning, Deep Learning, TensorFlow, PyTorch, Data Analysis, Python","Presentation skills, Stakeholder Management, Written Communication, Data Storytelling","Microsoft Certified: Azure Data Scientist Associate, TensorFlow Developer Certificate"
+Rohan Mehta,35,Male,"Ansible, Docker, Kubernetes, Terraform, CI/CD, Jenkins, Linux","Team Leadership, Agile Communication, Mentoring","Certified Kubernetes Administrator (CKA), AWS Certified DevOps Engineer – Professional"
+Priyanka Rao,26,Female,"SQL, Python, Power BI, Tableau, ETL, Data Visualization, Data Modeling","Data Storytelling, Client Communication, Collaboration","Microsoft Certified: Data Analyst Associate, Tableau Desktop Specialist"
+Karan Joshi,33,Male,"Jenkins, Git, Maven, Docker, Kubernetes, Build Automation, CI/CD","Technical Documentation, Team Mentoring, Presentation","Certified Jenkins Engineer, AWS Certified DevOps Engineer – Professional"
+Anjali Verma,31,Female,"Elasticsearch, Logstash, Kibana, AWS, Linux, Data Visualization","Log Reporting, Cross-team Collaboration, Verbal Communication",Elastic Certified Engineer
+Vikram Patel,29,Male,"Chef, Ruby, Automation, Configuration Management, AWS, Linux","Infrastructure Communication, Documentation, Collaboration","Chef Certification, AWS Certified DevOps Engineer – Professional"
+Rhea Reddy,27,Female,"Splunk, Data Analysis, Scripting, Dashboards, Linux, AWS","Monitoring Reports, Alerting Communication, Team Collaboration",Splunk Core Certified Power User
+Arjun Nair,36,Male,".NET, C#, ASP.NET, SQL Server, Git, Entity Framework","Software Development Communication, Code Review Feedback",Microsoft Certified: .NET Developer
+Meera Iyer,25,Female,"HTML5, CSS3, JavaScript, React, Responsive Design","UI/UX Feedback, User Testing Communication, Collaboration",
+Suresh Kumar,40,Male,"AI Strategy, Machine Learning, Team Management, Cloud Computing, Deep Learning","Leadership, Budgeting, Stakeholder Management, Mentoring","Certified Artificial Intelligence Practitioner (CAIP), AI-900: Microsoft Azure AI Fundamentals"
+Lakshmi Menon,32,Female,"Data Modeling, Data Warehousing, ETL, SQL, NoSQL, AWS, Data Governance","Data Governance Discussions, Project Communication",IBM Certified Data Architect - Big Data
+Rahul Sharma,34,Male,"Kubernetes, Docker, Linux, CI/CD, Automation, Monitoring","SRE Best Practices Sharing, Troubleshooting Reports","Certified Kubernetes Administrator (CKA), Docker Certified Associate"
+Pooja Desai,28,Female,"Puppet, Ruby, Automation, Linux, Cloud Computing, Infrastructure as Code","Configuration Management Documentation, Team Collaboration","Puppet Certification, AWS Certified DevOps Engineer – Professional"
+Vivek Agarwal,37,Male,"Terraform, AWS, Azure, Infrastructure as Code, Git","IaC Best Practices, Stakeholder Updates, Mentoring",AWS Certified DevOps Engineer – Professional
+Kavita Singh,29,Female,"Maven, Gradle, Jenkins, CI/CD, Build Automation, Git","Build Process Coordination, Mentoring",Certified Jenkins Engineer
+Deepak Rao,31,Male,"Linux, Windows Server, Networking, Monitoring, Automation, Scripting","Troubleshooting Communication, ITIL Processes, Reporting",ITIL Foundation Certification
+Ritu Malhotra,33,Female,"Data Analysis, Statistics, SQL, Python, Data Visualization, Data Modeling","Insights Presentation, Statistical Reporting","Certified Analytics Professional (CAP), Microsoft Certified: Data Analyst Associate"
+Sanjay Gupta,39,Male,"Big Data Architecture, Hadoop, Spark, Kafka, Data Governance","Mentoring, Innovation Communication, Strategy Presentation","Cloudera Certified Professional (CCP), Google Cloud Professional Data Engineer"
+Tanvi Joshi,26,Female,"ReactJS, AngularJS, JavaScript, HTML5, CSS3, Responsive Design","Frontend Collaboration, User Research Communication",
+Manoj Kumar,35,Male,"Gerrit, Git, Code Review, Linux, Automation, Scripting","Code Review Facilitation, Team Feedback",
+Shalini Nair,30,Female,"Jira, Agile Methodologies, Workflow Configuration, Project Management","Agile Communication, User Management Discussions, Stakeholder Management",Atlassian Jira Administration Certification
+Ashish Verma,28,Male,"Zabbix, Monitoring Tools, Alerting, Linux, Networking","Monitoring Reports, Alert Configuration Communication",Zabbix Certified Specialist
+Fatima Khan,27,Female,"Unity3D Engine, C#, 3D Modeling, Game Development, Animation","Interactive Content Collaboration, Asset Review Communication",
+Harish Iyer,42,Male,"HashiCorp Vault, Secrets Management, Encryption, Cloud Security, AWS","Security Protocol Communication, Access Control Discussions",
