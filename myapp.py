@@ -61,7 +61,7 @@ st.checkbox("I agree to the items.")
 
 
 #Matplotlib
-df = pd.read_csv(r"C:\Users\ASUS\OneDrive\Desktop\GenAI\gen_streamlit\UserData.csv")
+df = pd.read_csv("UserData.csv")
 
 # Clean column names
 df.columns = df.columns.str.strip()
